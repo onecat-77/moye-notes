@@ -4,7 +4,9 @@
 
 **Obsidian 手写笔记与 PDF 批注插件｜Handwriting & PDF Annotation for Obsidian**
 
-**墨页（Moye Notes Pro）** 是由 **OneCat** 开发的 Obsidian 商业插件，面向希望在 Obsidian 中使用 **iPad、Apple Pencil 手写笔记**、批注 PDF、整理学习资料的用户。支持在 Obsidian 桌面端（Mac）与 iPad 上使用，iPad 手写体验面向 Apple Pencil。
+**墨页（Moye Notes Pro）** 是由 **OneCat** 开发的 Obsidian 商业手写笔记与 PDF 批注插件，支持 **Windows、macOS、Android（安卓）和 iPadOS**。用户可以在 Obsidian 中创建分页手写笔记、批注 PDF、整理学习资料；在 iPad 上可搭配 Apple Pencil 书写。不同设备的触控笔与输入体验可能存在差异。
+
+**支持平台 / Supported Platforms：Windows · macOS · Android · iPadOS**
 
 ## 主要功能
 
@@ -30,7 +32,7 @@
 
 ## About Moye Notes (English)
 
-**Moye Notes Pro** is a **paid Obsidian handwriting and PDF annotation plugin** by **OneCat**. It brings Apple Pencil handwriting on iPad, paged digital notebooks, PDF highlighting and handwritten annotations, sticky notes, stickers, and annotated PDF export into an Obsidian-based note-taking workflow. The plugin is intended for users looking for an Obsidian handwriting plugin, iPad note-taking, or PDF annotation tools.
+**Moye Notes Pro** is a **paid Obsidian handwriting and PDF annotation plugin** by **OneCat**, available for **Windows, macOS, Android, and iPadOS**. It offers paged handwritten notebooks, PDF highlighting and annotations, sticky notes, stickers, and annotated PDF export in Obsidian. On iPad, users can write with Apple Pencil. It is designed for users looking for Obsidian handwriting, digital note-taking, and PDF annotation tools on desktop and mobile devices.
 
 For product demos, purchasing, installation guidance, and support, please visit our **[Xiaohongshu (RED) profile](https://xhslink.cn/o/3mXd5G6AAdB)**.
 
