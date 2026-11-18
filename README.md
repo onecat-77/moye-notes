@@ -2,47 +2,60 @@
 
 # 墨页 Moye Notes Pro
 
-### 把手写、PDF 批注与知识整理，带进你的 Vault。
+### 把专业手写、PDF 与 Markdown 原文批注，带进你的 Obsidian Vault。
 
-**为 Obsidian 打造的手写笔记、PDF 阅读批注与自由整理工具。** 让手写、阅读、摘录和思考留在熟悉的知识库里，而不必在不同应用之间反复切换。
+**Moye Notes Pro** 是 OneCat 独立开发的 Obsidian 付费插件，面向需要自然书写、PDF 阅读批注、Markdown 原文手写与知识整理的用户。让阅读、摘录、批注和笔记留在同一个知识库里。
 
-**墨页（Moye Notes Pro）** 是 OneCat 独立开发的 **Obsidian 付费插件**，面向想在 Obsidian 中使用手写笔记、管理学习资料和批注 PDF 的用户。
+**支持平台：** macOS · Windows · iPadOS · Android。iPad 可使用 Apple Pencil；不同设备、系统与触控笔的实际体验可能有所差异。
 
-**支持平台：** macOS · Windows · iPadOS · Android。iPad 可使用 Apple Pencil；不同系统、设备和触控笔的实际输入体验可能有所差异。
+## 购买 Moye Notes Pro · Purchase
 
-*以下功能介绍依据 2026 年 11 月已发布的墨页 Pro 0.4.1；后续实际功能和兼容性以对应发行版本为准。*
+**海外购买 / International purchase — US$6.99**
 
-**[查看产品演示、购买与安装咨询｜一猫七七的小红书](https://xhslink.cn/o/3mXd5G6AAdB)**
+**一次性买断，后续更新免费，无订阅费用。**  
+**One-time purchase. Free future updates. No subscriptions or recurring charges.**
 
-## 墨页能做什么？
+**[通过 PayPal 安全购买 Moye Notes Pro / Buy Moye Notes Pro securely via PayPal](https://www.paypal.com/ncp/payment/EP5NHX47QZPNL)**
 
-### ✍️ 自然手写与分页笔记
+官网正在建设中。现阶段海外购买通过 PayPal 完成；**确认付款后**，OneCat 将通过电子邮件发送 Pro 安装包、授权激活信息和安装指南。结账时请填写**用于接收软件的邮箱地址**。付款不会自动开始下载，软件暂时由人工邮件交付。
 
-在 Obsidian 中创建独立的手写笔记本，使用钢笔、圆珠笔、高光笔、下划线、填空胶带、橡皮擦、套索和颜色工具记录想法。支持不同纸张样式、笔记本封面、页面管理以及单页／双页书写与浏览。
+Our official website is under development. For now, international customers can purchase through PayPal. **After payment is confirmed**, OneCat will email the installation package, license activation details, and setup instructions to the **delivery email entered at checkout**. Delivery is currently handled manually; no physical goods are shipped.
 
-### 📄 PDF 阅读、手写批注与摘录
+- **中文演示、国内购买与咨询：** [一猫七七 · 小红书](https://xhslink.cn/o/3mXd5G6AAdB)
+- **International sales & support / 海外购买与售后：** [onecat77work@gmail.com](mailto:onecat77work@gmail.com)
+- **免费版试用 / Try the free edition:** [Moye Notes Free — Obsidian Community](https://community.obsidian.md/plugins/yinyue-moye)
 
-用墨页打开 PDF 后，可在原文旁手写、划线高光、添加文字或其他批注，并整理阅读摘录。支持在 PDF 批注中插入图片并调整裁切与圆角，以及将批注导出为一份新的 PDF。**原始 PDF 文件不会因墨页批注而被直接改写。**
+Moye Notes Free 可继续免费使用；**Pro 是另外安装、另行付费的版本**。购买时请确认自己需要的是 Pro，而不是免费版。
 
-### 🧩 自由画布、图形与知识整理
+## 墨页 Pro 能做什么？
 
-在笔记页面加入文本框、图片、便利贴、贴纸和图形；利用直线、箭头、连接线、选择及编组等操作，自由绘制流程、结构关系或思路草图。这里的“思维整理”指用户自行绘制和编辑，并非自动生成完整思维导图。
+### ✍️ 专业书写与分页笔记
 
-### 🔗 Markdown 与手写结合
+使用自研压感钢笔、圆珠笔、高光笔、下划线、胶带笔、橡皮擦和套索进行自然书写。支持多种纸张模板、笔记本封面、页面管理、单页／双页与连续浏览，以及图片、文本框、便利贴、贴纸和图形等创意编辑工具。
 
-可将 Obsidian 中的 Markdown 笔记嵌入手写页面，在同一个学习空间里结合文字阅读、手写标注与知识整理。墨页不要求用户为了日常手写去学习复杂的 Markdown 语法。
+### 📄 PDF 手写批注、摘录收集与原文回跳
 
-### ✨ 本地手写识别与字迹美化
+在 PDF 上直接手写、高亮和添加批注，进行文字摘录、批注分类整理及原文回跳；支持扩页、图片和其他专业书写工具，并可导出**带批注的 PDF 副本**。原始 PDF 不会因墨页批注而直接改写。
 
-提供基于本地 OCR 资源的手写识别与文字转换能力：可以主动选择笔迹进行识别，也可按设置使用自动识别。成功识别的内容可转换为可编辑文字，并由用户检查或修改；无法可靠识别的内容会尽量保留原始笔迹。首次使用相关能力可能需要下载识别资源。
+### 📝 Markdown 原文手写批注
 
-### 💬 AI 问答与学习辅助
+在 Obsidian 的 **Markdown 原文笔记上直接手写和高亮**，而不仅仅是嵌入一张手写图片。支持文字摘录、从摘录返回原文位置，以及将带批注的 Markdown 内容导出为 PDF。也可以把 Markdown 内容嵌入手写笔记本，结合两种笔记形式。
 
-可围绕笔记内容、PDF 文字或选取区域向 AI 提问，用于解释概念、梳理知识和辅助阅读学习。AI 功能需按插件设置配置相应服务；第三方模型服务可能产生独立费用。AI 生成的内容应结合原文自行核对。
+### 🧩 图形与自由知识整理
 
-### 📚 可选的墨词 InkLex PDF 联动
+在手写页面里加入图形、箭头、连接线、便利贴、图片和文本框，自由组织课程笔记、思路草图与阅读材料。这里的图形整理是可以亲自绘制、编辑的内容，不代表 AI 会自动生成所有图形。
 
-当用户另行安装并使用兼容的 **墨词 InkLex Pro** 时，可在墨页的 PDF 阅读场景中看到墨词的五色单词熟练度高亮，并使用相应的词卡、查词交互。**墨词是独立插件，需要单独获取；没有安装墨词也不影响墨页的普通笔记和 PDF 批注。**
+### ✨ OCR 手写识别与字迹美化
+
+可使用本地 OCR 资源识别手写内容，并将识别结果转换为可编辑文字；同时提供字迹美化工具。识别效果取决于字迹情况，部分资源需在首次使用时下载。
+
+### 💬 AI 问答与阅读辅助
+
+对选中的文字或框选的笔记内容提问，让 AI 帮助解释、翻译和总结。AI 功能需要用户配置相应服务；第三方 AI 服务可能另外收费，生成结果仍建议结合原文核对。
+
+### 📚 可选的墨词 InkLex Pro 联动
+
+另行安装兼容的 **InkLex Pro** 后，可扩展 PDF 场景中的词汇高亮、查词和词卡体验。InkLex 是独立插件，需要单独获取；没有安装墨词，也不影响墨页的普通笔记与批注功能。
 
 ## 真实运行界面 · Screenshots
 
@@ -51,44 +64,47 @@
   <img src="./handwriting.png" alt="墨页 Moye Notes Pro 的手写笔记画布、纸张与书写工具真实截图" width="48%" />
 </p>
 
-*页首图片用于产品视觉介绍。此处展示真实运行界面；不同平台、主题和版本的外观可能有所差别。更多 PDF、图形和 AI 的真实截图将陆续补充。*
+*以上为真实产品截图。不同平台、主题和版本的界面可能有所差别；更多 PDF、Markdown 批注与 AI 演示将陆续补充。*
 
 ## 谁适合使用墨页？
 
-墨页适合希望在 Obsidian 中手写学习笔记、阅读并批注 PDF、整理课程资料、记录读书感想，或将手写与已有 Markdown 笔记放在一起的用户。墨页的首要方向是**自然、稳定、好用的手写体验**，并在此基础上融入自由整理与知识关联。
-
-## 演示、购买、安装与支持
-
-目前主要通过小红书提供中文产品演示、购买咨询、安装指引及使用支持：
-
-**[一猫七七 · 小红书主页](https://xhslink.cn/o/3mXd5G6AAdB)**
-
-墨页是商业插件，不通过本展示仓库提供付费安装包或激活码。功能细节、兼容性与购买信息，请以实际发布版本及官方演示说明为准。
-
-## About Moye Notes Pro · English
-
-**Moye Notes Pro** is a **paid handwriting, PDF annotation, and note-organizing plugin for Obsidian**, independently developed by **OneCat**. It brings handwritten notebooks, PDF reading and markup, freeform visual notes, Markdown embedding, local handwriting recognition, and optional AI-assisted study into an Obsidian vault.
-
-*This overview reflects the released Moye Notes Pro 0.4.1 feature set as of November 2026. Availability and behavior may vary by release and platform.*
-
-**Key features include:**
-
-- **Handwritten notebooks:** paged notes, pen and ballpoint tools, highlighters, erasers, lasso selection, paper styles, and single- or two-page layouts.
-- **PDF annotation and excerpts:** handwritten markup, highlighting, notes, images, reading excerpts, and export to a **new annotated PDF** without directly modifying the original PDF.
-- **Freeform note organization:** text boxes, images, sticky notes, stickers, shapes, arrows, connectors, and manually arranged visual diagrams.
-- **Markdown embedding:** place Obsidian Markdown note content alongside handwritten material.
-- **On-device handwriting recognition:** optionally convert recognized handwriting into editable text after downloading the required local OCR resources; recognition accuracy depends on the input.
-- **AI-assisted learning:** ask questions about selected notes or PDF content using a configured model service, which may charge separately.
-- **Optional InkLex integration:** vocabulary highlights and lookup within Moye's PDF experience when the separate compatible InkLex Pro plugin is installed.
-
-**Platforms:** macOS, Windows, iPadOS, and Android. Apple Pencil is supported on compatible iPads; input behavior and available experience can vary by device and version.
-
-For demos, purchasing information, installation guidance, and support, visit **[OneCat on Xiaohongshu (RED)](https://xhslink.cn/o/3mXd5G6AAdB)**. This is currently the primary Chinese-language purchase and support channel.
+墨页适合希望在 Obsidian 中手写学习笔记、阅读与批注 PDF、直接批注 Markdown 原文、整理摘录与知识关联的学生、研究者、读者和笔记爱好者。墨页的首要方向始终是**自然、稳定、好写**，在此基础上提供完整的阅读和批注体验。
 
 ---
 
-**声明 / Notice:** 本仓库仅供墨页产品介绍与展示，不提供商业插件源码、付费安装包或激活码；**公开仓库不等于开源授权**。墨页是独立开发的第三方 Obsidian 插件，并非 Obsidian 官方产品，也不代表已收录于 Obsidian 官方社区插件库。
+## About Moye Notes Pro · English
 
-This repository is for product information only. It is **not** an open-source distribution of Moye Notes Pro and does not contain the paid plugin, license keys, or activation codes. Moye Notes Pro is an independent third-party plugin, not an official Obsidian product.
+**Moye Notes Pro** is a premium handwriting, **PDF annotation**, and **handwritten Markdown annotation** plugin for Obsidian, independently developed by **OneCat**. It brings handwriting, reading, excerpts, and connected knowledge organization into your Obsidian vault.
+
+### Key features
+
+- **Professional handwriting & notebooks:** Pressure-sensitive fountain and ballpoint pens, highlighters, erasers, lasso selection, continuous or two-page browsing, paper templates, and notebook organization.
+- **Advanced PDF annotation:** Write and highlight on PDFs, collect and categorize excerpts, jump back to source passages, extend writing space, and export annotated PDF copies while preserving the original PDF.
+- **Handwriting directly on Markdown notes:** Write and highlight on existing Markdown content, collect text excerpts, navigate back to the original passage, and export annotated Markdown notes as PDF.
+- **Creative note-taking:** Sticky notes, decorative tapes, stickers, shapes, arrows, connectors, images, text boxes, and notebook covers.
+- **Handwriting OCR & beautification:** Recognize handwriting locally, convert recognized content into editable text, and improve handwriting presentation. Some resources require an optional download.
+- **AI Q&A:** Ask questions about selected text or note regions to get explanations, translations, and summaries using your configured AI service. Provider charges may apply.
+- **Markdown integration:** Embed Markdown content into handwritten notebooks.
+- **Optional InkLex Pro integration:** Additional vocabulary highlights, lookup, and flashcard workflows when a separately obtained compatible InkLex Pro plugin is installed.
+
+**Platforms:** macOS, Windows, iPadOS, and Android. Apple Pencil is supported on compatible iPads; actual behavior may vary by device and operating system.
+
+### Pricing, checkout & delivery
+
+**Price: US$6.99, one-time purchase. Your license includes free future updates, with no subscription or recurring charges.**
+
+**[Purchase Moye Notes Pro securely with PayPal — US$6.99](https://www.paypal.com/ncp/payment/EP5NHX47QZPNL)**
+
+Our official website is being built. For now, payment is handled by PayPal and delivery is handled by email. After payment is confirmed, we'll send the plugin installation package, license activation information, and setup guide to the email address entered at checkout. Please ensure that address is correct.
+
+For purchasing questions, delivery issues, or installation support, contact **[onecat77work@gmail.com](mailto:onecat77work@gmail.com)**. Chinese-language demos and purchasing support are available via [OneCat on Xiaohongshu (RED)](https://xhslink.cn/o/3mXd5G6AAdB).
+
+If you would like to explore the essential handwriting and PDF tools first, you can [try Moye Notes Free in the Obsidian Community directory](https://community.obsidian.md/plugins/yinyue-moye). **Moye Free is free; Moye Pro is a separate paid edition.**
+
+---
+
+**声明 / Notice：** 本仓库仅用于 Moye Notes Pro 的产品展示与购买信息，不提供 Pro 商业源码、安装包或授权码；**公开仓库不等于开源授权**。墨页是 OneCat 独立开发的第三方 Obsidian 插件，并非 Obsidian 官方产品。免费版在官方社区提供，Pro 则通过独立渠道购买与交付。
+
+This repository contains product information only. It does **not** distribute the proprietary Moye Notes Pro source code, paid installation package, or license keys. Moye Notes Pro is an independent third-party plugin, not an official Obsidian product.
 
 © OneCat. All rights reserved.
