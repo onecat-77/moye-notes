@@ -15,11 +15,11 @@
 **一次性买断，后续更新免费，无订阅费用。**  
 **One-time purchase. Free future updates. No subscriptions or recurring charges.**
 
-**[通过 PayPal 安全购买 Moye Notes Pro / Buy Moye Notes Pro securely via PayPal](https://www.paypal.com/ncp/payment/EP5NHX47QZPNL)**
+**海外在线购买入口暂时关闭 / International checkout temporarily unavailable.**
 
-官网正在建设中。现阶段海外购买通过 PayPal 完成；**确认付款后**，OneCat 将通过电子邮件发送 Pro 安装包、授权激活信息和安装指南。结账时请填写**用于接收软件的邮箱地址**。付款不会自动开始下载，软件暂时由人工邮件交付。
+官网正在建设中，海外付款渠道正在更新，本页面暂不接受新的在线付款。请勿使用之前的付款链接；购买、安装和授权咨询可联系下方公开工作邮箱。恢复销售后，软件仍将通过电子邮件人工交付。
 
-Our official website is under development. For now, international customers can purchase through PayPal. **After payment is confirmed**, OneCat will email the installation package, license activation details, and setup instructions to the **delivery email entered at checkout**. Delivery is currently handled manually; no physical goods are shipped.
+Our official website is under development, and we are updating our international payment method. Online checkout is temporarily unavailable on this page. Please do not use previous payment links. For purchasing, delivery, or licensing inquiries, contact the support email below. When sales resume, software will be delivered manually by email; no physical goods are shipped.
 
 - **中文演示、国内购买与咨询：** [一猫七七 · 小红书](https://xhslink.cn/o/3mXd5G6AAdB)
 - **International sales & support / 海外购买与售后：** [onecat77work@gmail.com](mailto:onecat77work@gmail.com)
@@ -93,9 +93,9 @@ Moye Notes Free 可继续免费使用；**Pro 是另外安装、另行付费的�
 
 **Price: US$6.99, one-time purchase. Your license includes free future updates, with no subscription or recurring charges.**
 
-**[Purchase Moye Notes Pro securely with PayPal — US$6.99](https://www.paypal.com/ncp/payment/EP5NHX47QZPNL)**
+**International checkout is temporarily unavailable while we update our payment provider.**
 
-Our official website is being built. For now, payment is handled by PayPal and delivery is handled by email. After payment is confirmed, we'll send the plugin installation package, license activation information, and setup guide to the email address entered at checkout. Please ensure that address is correct.
+Our official website is being built. This page is not accepting new online payments while we update our international checkout. Please do not use any previous payment link. When sales resume, the plugin installation package, license activation information, and setup guide will be delivered manually by email after payment is confirmed.
 
 For purchasing questions, delivery issues, or installation support, contact **[onecat77work@gmail.com](mailto:onecat77work@gmail.com)**. Chinese-language demos and purchasing support are available via [OneCat on Xiaohongshu (RED)](https://xhslink.cn/o/3mXd5G6AAdB).
 
