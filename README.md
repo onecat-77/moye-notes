@@ -10,22 +10,19 @@
 
 ## 购买 Moye Notes Pro · Purchase
 
-**海外购买 / International purchase — US$6.99**
+**官方产品官网 / Official website:** [Moye Notes Pro — Handwriting for Obsidian](https://hionecat.com/en/moye/)
 
-**一次性买断，后续更新免费，无订阅费用。**  
-**One-time purchase. Free future updates. No subscriptions or recurring charges.**
+**海外售价 / International price: US$9.99 · 一次性买断 / One-time purchase.** 无自动续费订阅；已授权版本的更新权益以[官网条款](https://hionecat.com/en/moye/terms.html)为准。
 
-**海外在线购买入口暂时关闭 / International checkout temporarily unavailable.**
+**官网已经上线，海外在线付款仍待支付服务商审核。** 请通过官网查看产品功能、互动演示、价格、交付说明及售后政策。请勿使用此前的 PayPal 付款链接；未来正式启用的付款方式，以官网展示的入口为准。
 
-官网正在建设中，海外付款渠道正在更新，本页面暂不接受新的在线付款。请勿使用之前的付款链接；购买、安装和授权咨询可联系下方公开工作邮箱。恢复销售后，软件仍将通过电子邮件人工交付。
+**The official product website is live, but international checkout is not yet available pending payment-provider approval.** Visit the website for interactive demos, current pricing, delivery details, and policies. Do not use previous PayPal payment links; use only the purchase options officially published on our website.
 
-Our official website is under development, and we are updating our international payment method. Online checkout is temporarily unavailable on this page. Please do not use previous payment links. For purchasing, delivery, or licensing inquiries, contact the support email below. When sales resume, software will be delivered manually by email; no physical goods are shipped.
+- **墨页英文官网 / Official product page:** [hionecat.com/en/moye/](https://hionecat.com/en/moye/)
+- **国内购买与中文咨询：** [一猫七七 · 小红书](https://xhslink.cn/o/3mXd5G6AAdB)
+- **客服 / Support:** [support@hionecat.com](mailto:support@hionecat.com)
 
-- **中文演示、国内购买与咨询：** [一猫七七 · 小红书](https://xhslink.cn/o/3mXd5G6AAdB)
-- **International sales & support / 海外购买与售后：** [onecat77work@gmail.com](mailto:onecat77work@gmail.com)
-- **免费版试用 / Try the free edition:** [Moye Notes Free — Obsidian Community](https://community.obsidian.md/plugins/yinyue-moye)
-
-Moye Notes Free 可继续免费使用；**Pro 是另外安装、另行付费的版本**。购买时请确认自己需要的是 Pro，而不是免费版。
+Moye Notes Pro 是另行授权的 Obsidian 付费插件。本公开仓库只展示产品，不提供 Pro 安装包、商业源码或激活码。
 
 ## 墨页 Pro 能做什么？
 
@@ -91,19 +88,18 @@ Moye Notes Free 可继续免费使用；**Pro 是另外安装、另行付费的�
 
 ### Pricing, checkout & delivery
 
-**Price: US$6.99, one-time purchase. Your license includes free future updates, with no subscription or recurring charges.**
+**Price: US$9.99, one-time purchase.** There is no recurring subscription. Updates released for your licensed version are included; separately licensed future major versions may have different pricing and terms.
 
-**International checkout is temporarily unavailable while we update our payment provider.**
+**Official product website:** [Moye Notes Pro — Handwriting for Obsidian](https://hionecat.com/en/moye/)
 
-Our official website is being built. This page is not accepting new online payments while we update our international checkout. Please do not use any previous payment link. When sales resume, the plugin installation package, license activation information, and setup guide will be delivered manually by email after payment is confirmed.
+**Online checkout is pending payment-provider approval.** The official website is live and includes the interactive demo, product information, and purchase policies. After a confirmed purchase, the plugin package, activation code, and an illustrated installation guide **or** video walkthrough will be delivered manually by email within 48 hours, usually sooner.
 
-For purchasing questions, delivery issues, or installation support, contact **[onecat77work@gmail.com](mailto:onecat77work@gmail.com)**. Chinese-language demos and purchasing support are available via [OneCat on Xiaohongshu (RED)](https://xhslink.cn/o/3mXd5G6AAdB).
+For licensing, delivery, and installation support, contact **[support@hionecat.com](mailto:support@hionecat.com)**. Chinese-language purchase inquiries are also available through [OneCat on Xiaohongshu (RED)](https://xhslink.cn/o/3mXd5G6AAdB).
 
-If you would like to explore the essential handwriting and PDF tools first, you can [try Moye Notes Free in the Obsidian Community directory](https://community.obsidian.md/plugins/yinyue-moye). **Moye Free is free; Moye Pro is a separate paid edition.**
 
 ---
 
-**声明 / Notice：** 本仓库仅用于 Moye Notes Pro 的产品展示与购买信息，不提供 Pro 商业源码、安装包或授权码；**公开仓库不等于开源授权**。墨页是 OneCat 独立开发的第三方 Obsidian 插件，并非 Obsidian 官方产品。免费版在官方社区提供，Pro 则通过独立渠道购买与交付。
+**声明 / Notice：** 本仓库仅用于 Moye Notes Pro 的产品展示与购买信息，不提供 Pro 商业源码、安装包或授权码；**公开仓库不等于开源授权**。墨页是 OneCat 独立开发的第三方 Obsidian 插件，并非 Obsidian 官方产品。Pro 版本通过独立渠道购买与交付。
 
 This repository contains product information only. It does **not** distribute the proprietary Moye Notes Pro source code, paid installation package, or license keys. Moye Notes Pro is an independent third-party plugin, not an official Obsidian product.
 
